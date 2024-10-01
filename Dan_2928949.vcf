@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Koukol;Dan;
+
+FN: Dan  Koukol 
+
+ORG: Placer Public Defender 
+
+TITLE:
+
+ADR;ADDRESS;ENCODING=QUOTED-PRINTABLE:;;3785 Placer Corporate Dr=0D=0A#550=0D=0ARocklin, California 95765
+TEL;WORK;VOICE:916-644-1100 
+URL;WORK:https://www.placerpublicdefender.com/dan-koukol.html
+
+NOTE:
+END:VCARD
